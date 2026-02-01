@@ -1,0 +1,45 @@
+PRIVACY POLICY FOR VOICE CHANGER
+Last updated: February 1, 2026
+
+This Privacy Policy describes how Voice Changer ("we," "us," or "our") collects, uses, and discloses information about you when you use our mobile application (the "App").
+
+1. Information We Collect
+a. Microphone & Audio Data To provide the core functionality of the App (changing your voice), we require access to your device's microphone.
+
+How we use it: When you tap the record button, we capture audio to apply real-time sound effects (such as Robot, Helium, or Echo).
+
+Local Processing Only: All audio recording and processing logic (as seen in our AudioManager system) is performed locally on your device. We do not upload, stream, or store your voice recordings on any external server.
+
+Storage: The processed audio files track is stored temporarily in your device's local document directory (recording.wav and processed.wav) solely for playback purposes within the App.
+
+b. Usage Data (No Personal Identifiers) The App currently operates without requiring a user account or login. We do not collect personally identifiable information (PII) such as your name, address, or phone number.
+
+2. Third-Party Services & Advertising
+(Not: Eğer uygulamaya henüz AdMob kodu eklemediysen bu bölümü silebilirsin. Eklediysen/ekleyeceksen bu bölüm kalmalı.)
+
+To keep the App free, we may use third-party advertising services like Google AdMob. These service providers may collect and use certain data to serve personalized ads:
+
+Device Identifiers: Such as IDFA (iOS) or AAID (Android).
+
+Usage Data: Performance metrics and interaction with advertisements.
+
+For more information, please review Google's Privacy Policy:
+
+Google AdMob: https://policies.google.com/privacy
+
+3. App Tracking Transparency (iOS)
+If we use advertising identifiers (IDFA), we will request your explicit permission via the Apple App Tracking Transparency (ATT) prompt. You can decline this permission at any time in your device settings. If you decline, the App will still function fully, but ads may be less relevant.
+
+4. Data Security
+We prioritize the security of your data. Since your voice recordings and processing happen locally on your device and are not transmitted to us or any cloud server, your voice data remains completely private and under your control.
+
+5. Children’s Privacy
+Voice Changer does not knowingly collect personal information from children under the age of 13. As the audio processing is local, no voice data from children is collected or stored by us.
+
+6. Changes to This Policy
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+7. Contact Us
+If you have any questions about this Privacy Policy or our data practices, please contact us at:
+
+Email: mhttnkaya@gmail.com
