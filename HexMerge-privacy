@@ -1,50 +1,51 @@
-Harika, Hexmerge: Reach 2048! için hazırladığım gizlilik politikası taslağı aşağıdadır. Önceki uygulandaki yapıyı korudum ancak oyunun doğasına uygun (puan takibi, oyun içi ilerleme vb.) ufak güncellemeler ekledim.
+PRIVACY POLICY FOR HEXMERGE: AGES OF CIVILIZATION
+Last Updated: March 30, 2026
 
-PRIVACY POLICY FOR HEXMERGE: REACH 2048!
-Last Updated: March 27, 2026
-
-This Privacy Policy explains how Hexmerge: Reach 2048! ("we," "us," or "our") collects, uses, and discloses information about you when you use our mobile application on iOS.
+This Privacy Policy explains how HexMerge: Ages of Civilization ("we," "us," or "our") collects, uses, and discloses information about you when you use our mobile application on iOS.
 
 1. Information We Collect
-To provide a smooth puzzle experience and track your progress, we collect limited data. We do not request access to your contacts, camera, or microphone.
+To provide a progressive gameplay experience through different ages and track your achievements, we collect limited data.
 
-a. Gameplay & High Scores: * Purpose: To save your current board state, high scores, and game progress so you can resume playing later.
+a. Gameplay & Civilization Progress: * Purpose: To save your current civilization (e.g., Stone Age), discovered items (e.g., Spear, Cave Art), board state, and high scores.
 
-Processing: This data is primarily stored locally on your device.
+Processing: This data is stored locally on your device or via Apple's iCloud/Game Center to ensure you don't lose progress.
 
-b. Usage Data & Diagnostics:
+b. In-App Purchases (IAP): * Purpose: To manage "Gold" balances and "Upgrade" transactions.
 
-Purpose: To improve game stability and performance (e.g., ensuring the hexagonal grid renders correctly). We may collect anonymous crash reports.
+Processing: All financial transactions are handled securely by Apple App Store. We do not collect or store your credit card or bank details. We only receive confirmation from Apple when a purchase is successful.
 
-Processing: This data is aggregated and not linked to your personal identity.
+c. Usage Data & Diagnostics:
 
-c. Device Settings:
+Purpose: To improve game stability and fix bugs related to the hexagonal merging mechanics.
 
-Purpose: The App interacts with your device's haptic engine (vibrations) and audio settings for in-game sound effects.
+Processing: This data is anonymous and aggregated.
 
-2. Third-Party Advertising & Tracking
-To keep Hexmerge: Reach 2048! free to play, we display advertisements provided by third-party networks, such as Google AdMob.
+2. Advertising & Third-Party Services
+To keep the game free to play and provide "Earn Gold" features, we use third-party advertising networks (e.g., Google AdMob).
 
-a. Identifiers (IDFA): With your permission, we may access your device’s Advertising Identifier (IDFA) to deliver ads that are more relevant to your interests.
+a. Rewarded Ads: If you choose to "watch to earn" gold, the ad network will process your interaction to verify the reward.
 
-b. App Tracking Transparency (ATT): In accordance with Apple's requirements, you will see a prompt asking for permission to track your activity across other apps.
+b. Identifiers (IDFA): With your permission via the App Tracking Transparency (ATT) prompt, we may use your device’s Advertising Identifier to show relevant ads.
 
-Your Choice: You can tap "Ask App Not to Track" to decline.
-
-Effect of Declining: You will still see ads, but they will not be tailored to your interests. The core game features will remain fully functional.
+c. Your Choice: You can opt-out of tracking by selecting "Ask App Not to Track." The game features, including the ability to earn gold via ads, will still function, but ads will not be personalized.
 
 3. Data Sharing and Disclosure
-We do not sell your personal data. We share anonymous, aggregated data with third-party service providers (like Google AdMob) solely for displaying ads and analyzing game performance.
-For more details, please review the Google Privacy Policy.
+We do not sell your personal data. We share anonymous, aggregated data with third-party service providers solely for:
+
+Displaying advertisements.
+
+Analyzing app performance.
+
+Processing in-app purchases through Apple.
 
 4. Children’s Privacy
-Hexmerge: Reach 2048! is a puzzle game intended for a general audience. We do not knowingly collect personal data from children under the age of 13. If we learn that we have collected such data, we will delete it immediately.
+HexMerge: Ages of Civilization is intended for a general audience. We do not knowingly collect personal data from children under the age of 13. If you believe we have inadvertently collected such data, please contact us for immediate deletion.
 
 5. Security
-We take reasonable measures to protect your information. Since the game functions primarily offline, your puzzle moves and scores are not transmitted to our servers.
+We take reasonable measures to protect your information. Most game data remains on your device. We recommend keeping your device OS updated for the best security.
 
 6. Changes to This Privacy Policy
-We may update this policy from time to time. We will notify you of any changes by revising the "Last Updated" date at the top of this page.
+We may update this policy to reflect new game features or legal requirements. We will notify you by revising the "Last Updated" date at the top of this policy.
 
 7. Contact Us
 If you have any questions about this Privacy Policy or the game, please contact us at:
