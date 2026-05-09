@@ -1,0 +1,49 @@
+Privacy Policy for Qibla Navigator
+Last Updated: May 9, 2026
+
+1. Introduction
+Welcome to Qibla Navigator. We are committed to protecting your personal information and your right to privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application.
+
+2. Information We Collect
+
+Location Data: To provide accurate Qibla direction and prayer times, our app requires access to your device's precise location (GPS and network-based). This data is processed locally on your device to calculate the angle to the Kaaba.
+
+Sensors: We use your device's magnetometer (compass) and accelerometer to determine the direction you are facing.
+
+Usage Data: We may collect non-personal information such as device model, OS version, and app usage statistics to improve our service.
+
+3. How We Use Your Information
+
+To calculate and display the Qibla direction relative to your current position.
+
+To provide accurate prayer times and adhan notifications based on your coordinates.
+
+To improve the technical performance and user experience of the app.
+
+4. Data Storage and Third Parties
+
+Local Processing: Most of your data (like location) is processed in real-time on your device and is not stored on our servers.
+
+Advertisements: We use Google AdMob to display advertisements. AdMob may collect and use data (such as your Advertising ID) to show personalized ads. You can manage ad preferences in your device settings.
+
+Analytics: We may use Google Analytics for Firebase to monitor app performance.
+
+5. Data Retention
+We do not store your location history. Location data is used only while the app is active or when calculating prayer times in the background for notifications.
+
+6. Permissions
+By using Qibla Navigator, you may be asked to grant:
+
+Location Access: Required for Qibla and Prayer Times.
+
+Notification Access: Required for prayer time alerts.
+
+7. Children's Privacy
+Our app does not knowingly collect or solicit personal information from children under the age of 13.
+
+8. Changes to This Policy
+We may update our Privacy Policy from time to time. You are advised to review this page periodically for any changes.
+
+9. Contact Us
+If you have any questions about this Privacy Policy, please contact us at:
+Email: mhttnkaya@gmail.com
