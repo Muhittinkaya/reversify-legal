@@ -1,0 +1,57 @@
+İşte Cozmik oyunun için hazırladığım, hem Google AdMob (reklam) hem de Apple Game Center entegrasyonunu kapsayan, App Store onay süreçlerine uygun Gizlilik Politikası (Privacy Policy) taslağı.
+
+Mail adresini ve tarihi güncel tuttum, dilersen "Contact Us" kısmını kendi tercihine göre revize edebilirsin.
+
+PRIVACY POLICY FOR COZMIK
+Last Updated: May 30, 2026
+
+This Privacy Policy explains how Cozmik ("we," "us," or "our") collects, uses, and discloses information about you when you use our mobile application on iOS.
+
+1. Information We Collect and How We Use It
+To provide a fun, competitive, and smooth gaming experience (avoiding space obstacles and collecting coins), we collect limited data through official Apple services and analytics.
+
+a. Game Center (Leaderboards & High Scores)
+Purpose: To display your best scores, track achievements, and let you compete with other players globally.
+
+Processing: If you sign into Apple Game Center, your high scores, gameplay achievements, and player ID are processed securely by Apple. We do not store your personal identity or Game Center credentials on any external servers of our own.
+
+b. Gameplay Data & Diagnostics
+Purpose: To monitor game stability, track frame rates, and improve overall performance.
+
+Processing: We may collect anonymous crash reports and performance data (e.g., if the game lags or crashes mid-run). This data is completely aggregated, anonymized, and cannot be used to identify you.
+
+2. Third-Party Advertising & Tracking
+To offer Cozmik as a free-to-play game, we display advertisements provided by third-party ad networks, such as Google AdMob.
+
+a. Device Identifiers (IDFA)
+With your explicit permission, we may access your device’s Advertising Identifier (IDFA) to deliver personalized ads that match your interests (e.g., other gaming apps or relevant products).
+
+b. App Tracking Transparency (ATT)
+In accordance with Apple's strict iOS guidelines, the game will display a prompt asking for your permission to track your activity across other companies' apps and websites.
+
+Your Choice: You can choose to allow tracking or tap "Ask App Not to Track" to decline.
+
+Effect of Declining: If you decline, you will still see the exact same number of ads, but they will be generic rather than tailored to your interests. The game's core features (collecting coins, flying through space, and Game Center leaderboards) will remain 100% functional regardless of your choice.
+
+3. Data Sharing and Disclosure
+We respect your privacy and do not sell your personal data to third parties. We only share anonymous, aggregated usage data with third-party service providers (like Google AdMob and Apple Game Center) to display ads, track scores, and analyze game stability.
+
+For more details on how these platforms handle your data, please review their official policies:
+
+Google Privacy & Terms (AdMob)
+
+Apple Privacy Policy
+
+4. Children’s Privacy
+Cozmik is an arcade game designed for a general audience. We do not knowingly collect or solicit personal data from children under the age of 13. Since our ad partners may serve personalized ads only with user consent (ATT), users under 13 will automatically receive non-personalized ads in compliance with COPPA and GDPR regulations. If we learn that we have inadvertently collected personal data from a child under 13, we will delete that information immediately.
+
+5. Security
+The core mechanics of Cozmik function locally on your device. Your specific gameplay sessions, coin balances, and obstacle dodges are processed in real-time on your phone and are not transmitted to any private servers, ensuring a secure and lightweight experience.
+
+6. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. If we make changes, we will notify you by revising the "Last Updated" date at the top of this page.
+
+7. Contact Us
+If you have any questions or feedback regarding this Privacy Policy, please feel free to contact us at:
+
+Email: mhttnkaya@gmail.com
